@@ -1,0 +1,15 @@
+.ant-list-item:hover {
+    box-shadow: 0 0 10px #eee;
+  }
+
+.ant-list-item-meta-title {
+    margin-bottom: 0px !important
+}
+
+.ant-list-item-meta {
+    margin-bottom: 0px !important
+}
+
+.ant-layout-header {
+    padding: 0 10px !important
+}
