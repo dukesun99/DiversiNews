@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you discuss the accompanying research contribution, cite the paper in
+  preferred-citation.
+type: software
+title: DiversiNews
+repository-code: https://github.com/dukesun99/DiversiNews
+url: https://doi.org/10.14778/3685800.3685854
+authors: &id001
+- family-names: Sun
+  given-names: Yiqun
+- family-names: Huang
+  given-names: Qiang
+- family-names: Wang
+  given-names: Yanhao
+- family-names: Tung
+  given-names: Anthony K. H.
+preferred-citation:
+  type: article
+  title: 'DiversiNews: Enriching News Consumption with Relevant Yet Diverse News Articles
+    Retrieval'
+  authors: *id001
+  year: 2024
+  url: https://doi.org/10.14778/3685800.3685854
+  journal: Proceedings of the VLDB Endowment
+  volume: '17'
+  issue: '12'
+  start: 4277
+  end: 4280
+  doi: 10.14778/3685800.3685854
