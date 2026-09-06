@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: If you discuss the accompanying research contribution, cite the paper in
   preferred-citation.
 type: software
+license: MIT
 title: DiversiNews
 repository-code: https://github.com/dukesun99/DiversiNews
 url: https://doi.org/10.14778/3685800.3685854

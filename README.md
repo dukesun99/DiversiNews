@@ -19,6 +19,8 @@ git lfs pull
 ## Dataset
 We publish a new curated balanced news dataset named **NewsSpectrum** sourced from Reddit Pushshift dumps up to July 2022. We inlcude only submissions with at least 10 upvotes at indexing time to ensure the data quality. The dataset contains **250,000** articles from **961** news sources, spreaded over 5 political perspectives categories, namely Left, Lean Left, Center, Lean Right, and Right. The labels are sources from [AllSides Media Bias Rating :tm:](https://www.allsides.com/media-bias) and matched by media outlet domains. Each category contains 50,000 articles. You can download the dataset from the ["NewsSpectrum" folder](NewsSpectrum).
 
+The article texts in NewsSpectrum remain the property of their original publishers and are provided for research use; the repository's MIT license covers the code and the curated metadata and labels.
+
 The political labels describe media outlets, matched by domain. They are not independently annotated article-level ideology or factual-accuracy labels.
 
 ## Code
@@ -57,3 +59,7 @@ Use this reference when the paper supports your discussion.
   doi={10.14778/3685800.3685854}
 }
 ```
+
+## License
+
+[MIT License](LICENSE)
